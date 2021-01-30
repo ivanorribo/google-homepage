@@ -1,2 +1,3 @@
-This is Ivan's first HTML & CSS project on TOP
-This project consist on recreating the google homepage 
+# Google Homepage clone.
+### Ivan Orribo
+##[TheOdinProject](https://www.theodinproject.com/)
